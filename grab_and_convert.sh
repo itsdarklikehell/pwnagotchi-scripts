@@ -8,7 +8,7 @@ SSHKEY_PUB="$INSTALL_LOCATION/ssh/id_rsa.pub"
 HASHCAT_LOCATION="$INSTALL_LOCATION/hashcat/hashcat"
 WORDLIST_LOCATION="$INSTALL_LOCATION/wordlists"
 REMOTE_HOST="10.0.0.2"
-REMOTE_DIR="/root/handshakes"
+REMOTE_DIR="/home/pi/handshakes"
 LOCAL_HANDSHAKES_DIR="$INSTALL_LOCATION/handshakes/pcap"
 
 # Create necessary directories
