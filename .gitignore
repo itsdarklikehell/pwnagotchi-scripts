@@ -5,3 +5,5 @@ handshakes
 hashcat/scripts
 ssh
 hashcat/hashcat
+__pycache__/
+hashcat/__pycache__/
